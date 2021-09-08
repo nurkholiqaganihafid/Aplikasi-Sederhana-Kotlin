@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Hasil</string>
+    <string name="masukkan_tinggi">Masukkan Tinggi</string>
+    <string name="move_activity">Pindah Aktivity</string>
+    <string name="masukkan_lebar">Masukkan Lebar</string>
+    <string name="masukkan_panjang">Masukkan Panjang</string>
+    <string name="pindah_activity_dengan_data">Pindah Activity dengan data</string>
+    <string name="dial_number">Panggil Kontak</string>
+    <string name="this_is_moveactivity">Ini MoveActivity.. \nHalo Perkenalkan nama saya Nurkholiq Agani Hafid</string>
+    <string name="data_received">Data Diterima</string>
+
+
+    <string name="contoh_foto">6 Foto</string>
+    <string name="one_piece">One Piece</string>
+    <string name="harga_tiket">Rp. 20.000</string>
+    <string name="sisa_tiket">Sisa Tiket 5</string>
+    <string name="nobar_one_piece">Nobar One Piece Episode 990</string>
+    <string name="content_text">Dulu, ada seorang bajak laut terkenal di seluruh lautan bernama Gol D. Roger. Ia merupakan seorang raja bajak laut yang telah berlayar mengarungi seluruh Grand Line, sayangnya ia ditangkap pemerintah dan telah dieksekusi mati. Sesaat sebelum kematiannya, Ia mengumumkan kepada dunia bahwa dirinya menyimpan sebuah harta karun bernama One Piece, sebuah harta karun yang kini menjadi incaran seluruh bajak laut yang ada di dunia.</string>
+    <string name="informasi">Informasi :</string>
+    <string name="quota">Quota</string>
+    <string name="seat">100 Seat</string>
+    <string name="when">When</string>
+    <string name="tgl_mulai">12 September 2021 \n15.00 WIB s/d Selesai </string>
+    <string name="loc">Loc</string>
+    <string name="jalan">Jl. Poros Makassar - Parepare, Kec. Mallusetasi Kab. Barru. Rumah pagar warna hijau kuning samping penjual gorengan.</string>
+    <string name="dijual_oleh">Dijual oleh</string>
+    <string name="nurkholiq_agani_hafid">Nurkholiq Agani Hafid</string>
+    <string name="nama_channel">Nurkholiq Agani Hafid</string>
+    <string name="beli">Beli</string>
+    <string name="btn_share_channel">share channel</string>
+    <string name="judul_share">Share</string>
+    <string name="subscribe_on_my_channel">Subscribe on my channel</string>
+    <string name="subscribed">Subscribed</string>
+    <string name="aktifkan_notifikasi">Aktifkan Notifikasi</string>
+    <string name="share_channel">Share Channel</string>
+    <string name="btn_share">Share</string>
+</resources>
