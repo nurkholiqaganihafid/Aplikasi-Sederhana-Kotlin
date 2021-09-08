@@ -25,6 +25,8 @@ class MoveWithDataActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_move_with_data)
 
+        supportActionBar?.title = "Biodata"
+
         // Navigation drawer
         val drawerLayout: DrawerLayout = findViewById(R.id.drawerLayout)
 
@@ -55,8 +57,6 @@ class MoveWithDataActivity : AppCompatActivity() {
 
         }
         // akhir
-
-        supportActionBar?.title = "Biodata"
 
         val tvDataReceived: TextView = findViewById(R.id.tv_data_received)
 
