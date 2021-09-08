@@ -10,4 +10,6 @@
 
     <color name="colorDividerView">#ECECEC</color>
 
+    <color name="underLine">#BDB8B8</color>
+
 </resources>
