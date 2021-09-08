@@ -41,4 +41,14 @@
     <string name="btn_share">Share</string>
     <string name="my_name_is">Nurkholiq Agani Hafid</string>
     <string name="my_github">My GitHub: nurkholiqaganihafid</string>
+    <string name="item_home">item_home</string>
+    <string name="item_message">item_message</string>
+    <string name="item_sync">item_sync</string>
+    <string name="item_trash">item_trash</string>
+    <string name="item_setting">item_setting</string>
+    <string name="item_profile">item_profile</string>
+    <string name="item_login">item_login</string>
+    <string name="item_communicate">item_communicate</string>
+    <string name="item_share">item_share</string>
+    <string name="item_rate_us">item_rate_us</string>
 </resources>
