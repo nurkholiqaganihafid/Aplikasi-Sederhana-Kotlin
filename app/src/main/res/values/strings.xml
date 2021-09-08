@@ -51,4 +51,6 @@
     <string name="item_communicate">item_communicate</string>
     <string name="item_share">item_share</string>
     <string name="item_rate_us">item_rate_us</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
 </resources>
