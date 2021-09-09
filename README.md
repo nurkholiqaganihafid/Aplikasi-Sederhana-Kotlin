@@ -1,7 +1,7 @@
 # Aplikasi-Sederhana-Kotlin
 A simple app repo merge project with a few used features.
 
-# Fitur
+# Feature
 - The Activity component creates an application that can calculate the volume of a block
 - Explicit Intent, Sending Data on Intent and Implicit Intent
 - Views and ViewGroup
