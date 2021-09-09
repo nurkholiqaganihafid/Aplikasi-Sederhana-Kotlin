@@ -61,6 +61,7 @@
 
             <Button
                 android:id="@+id/btn_hitung"
+                style="@style/ButtonGeneral"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/hitung" />
@@ -77,29 +78,33 @@
             <Button
                 android:id="@+id/btn_move_activity"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="40dp"
                 android:layout_marginTop="16dp"
                 android:layout_marginBottom="16dp"
+                android:background="@drawable/button_background"
                 android:text="@string/move_activity" />
 
             <Button
+                android:background="@drawable/button_background"
                 android:id="@+id/btn_move_activity_data"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="40dp"
                 android:layout_marginBottom="16dp"
                 android:text="@string/pindah_activity_dengan_data" />
 
             <Button
                 android:id="@+id/btn_dial_number"
+                android:background="@drawable/button_background"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="40dp"
                 android:layout_marginBottom="16dp"
                 android:text="@string/dial_number" />
 
             <Button
                 android:id="@+id/btn_move_google_pixle"
+                android:background="@drawable/button_background"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="40dp"
                 android:layout_marginBottom="16dp"
                 android:text="@string/one_piece" />
 
