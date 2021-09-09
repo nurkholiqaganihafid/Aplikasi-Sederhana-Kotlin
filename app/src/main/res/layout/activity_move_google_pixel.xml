@@ -156,7 +156,6 @@
                 android:id="@+id/textView25"
                 android:layout_width="261dp"
                 android:layout_height="74dp"
-                android:layout_marginTop="4dp"
                 android:text="@string/jalan"
                 app:layout_constraintStart_toStartOf="@+id/textView22"
                 app:layout_constraintTop_toTopOf="@+id/textView24" />

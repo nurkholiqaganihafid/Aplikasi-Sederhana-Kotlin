@@ -161,7 +161,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
             /* Implicit Intent */
             R.id.btn_dial_number -> {
-                val nomorTelpon = "085156670808"
+                val nomorTelpon = "085179237488"
                 val panggilTelponIntent = Intent(Intent.ACTION_DIAL, Uri.parse("tel:$nomorTelpon"))
                 startActivity(panggilTelponIntent)
             }
